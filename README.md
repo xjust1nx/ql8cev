@@ -1,1 +1,2 @@
-# ql8cev
+# qlcev.info
+Quasso Liberum 8
